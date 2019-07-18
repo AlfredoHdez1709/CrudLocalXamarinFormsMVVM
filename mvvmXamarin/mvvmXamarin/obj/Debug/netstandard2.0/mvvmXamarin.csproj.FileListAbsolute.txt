@@ -1,0 +1,14 @@
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\bin\Debug\netstandard2.0\mvvmXamarin.deps.json
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\bin\Debug\netstandard2.0\mvvmXamarin.dll
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\bin\Debug\netstandard2.0\ref\mvvmXamarin.dll
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\bin\Debug\netstandard2.0\mvvmXamarin.pdb
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\mvvmXamarin.csprojAssemblyReference.cache
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\mvvmXamarin.csproj.CoreCompileInputs.cache
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\mvvmXamarin.AssemblyInfoInputs.cache
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\mvvmXamarin.AssemblyInfo.cs
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\mvvmXamarin.dll
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\ref\mvvmXamarin.dll
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\mvvmXamarin.pdb
+D:\Documentos\Projects\mvvmXamarin\mvvmXamarin\mvvmXamarin\obj\Debug\netstandard2.0\View\PersonaPage.xaml.g.cs
